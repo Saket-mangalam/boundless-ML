@@ -1,2 +1,3 @@
 # boundless-ML
-All machine learning I have worked on
+Beginner's guide to Machine learning and Deep learning implementations in Python.
+
